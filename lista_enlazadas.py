@@ -1,3 +1,5 @@
+#Datos MIguel
+
 class Nodo:
     #def __init__(self, data, next=None, previus=None):
     def __init__(self, data, next=None):
